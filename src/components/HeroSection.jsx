@@ -195,6 +195,14 @@ export default function HeroSection(){
                     >
                         SHOP COFFEE ☕
                 </Button>
+                <Button
+                        variant="outline"
+                        size="lg"                                       
+                        onClick={() =>
+                            document.getElementById("about")?.scrollIntoView({ behavior: "smooth" })
+                        }>
+                        OUR STORY
+                </Button>
                     
             </motion.div>
             
