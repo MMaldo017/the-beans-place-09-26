@@ -332,7 +332,7 @@ export default function ContactSection() {
 
                     {/* Inline styles override the heading colours to cream/amber */}
                     <h1 className="h1-stack" style={{ color: "var(--cream)" }}>
-                        GET IN
+                        Lets Get In Touch
                         
 
                         <span className="muted" style={{ color: "var(--amber)" }}>
